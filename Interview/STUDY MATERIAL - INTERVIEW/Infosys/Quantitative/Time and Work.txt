@@ -1,0 +1,91 @@
+1. A completes a work in 2 days, B in 4 days, C in 9 and D in 18 days. They form group of two such that difference is maximum between them to complete the work. What is difference in the number of days they complete that work?
+a.14/3 days.
+b.13/3 days.
+c.16/3 days.
+d.11/3 days.
+Ans: a
+Sol: If C and D form a pair and A and B form a pair the difference is maximum. Now C and D together can complete the work = 9×189+18 = 6 days.
+A and B together can complete the work = 2×42+4 = 4/3 days. Difference = 6 – 4/3 = 14/3 days.
+
+2. 12 persons can complete the work in 18 days. after working for 6 days, 4 more persons added to complete the work fast. in how many more days they will complete the work?
+a.9
+b.10
+c.8
+d.6
+Ans. a
+Sol: Total work 12 x 18 =216 units
+After 6 days, work finished 6 x 12 =72 units Remaining work 216 – 72=144 units Remaining days= 144(12+4)
+Answer is 9 days
+
+3. There are three trucks A, B, C. A loads 10 kg/min. B loads 13 1/3 kg/min. C unloads 5 kg/min. If three simultaneously works then what is the time taken to load 2.4 tones?
+a.2hrs 10min
+b.3hrs 10min
+c.2hrs 15min
+d.4hrs 10min
+Ans.a
+Sol: Work done in 1 min =10 + 403 – 5= 553 k g/min
+For 1 kg = 3/55 min
+For 2.4 tonnes = 3/55 x 2.4 x 1000 = 130 mins = 2hrs 10min
+
+4.In a grass field if 40 cows could eat for 40 days.The same grass field can feed 30 cows for 60 days.how long will it feed 20 cows?
+A.80
+B.85
+C.70
+D.60
+Ans.a
+Explanation:
+80 Here if number of cows decrease by 10 has increasing the number of days by 20 therefore, 40cows for 40days 30cows for 60days 20cows for 80days Ans: 80 or you can solve by ratio 40C : 40D –> 1:1 30C : 60D –> 1:2 20C : 80D –> 1:4 ans:80
+
+5. 5 skilled workers can build a wall in 20days; 8 semi-skilled workers can build a wall in 25 days; 10 unskilled workers can build a wall in 30days. If a team has 2 skilled, 6 semi-skilled and 5 unskilled workers, how long will it take to build the wall?
+A.12
+B.15
+C.14
+D.18
+Ans.b
+Explanation:
+Ans : 15days For Skilled 5 workers ——–20 days 5 workers 1 day work= 1/20 1 worker’s 1 day work= 1/(5*20) Similarly, For Semi-Skilled—— 1 worker’s 1 day work= 1/(8*25) For Unskilled—— 1 worker’s 1 day work= 1/(10*30) For 2 skilled,6 semi-skilled and 5 unskilled workers One day work= 2*[1/(5*20)] +6*[1/(8*25)] + 5*[ 1/(10*30)] = 1/15 Therefore no. of days taken= 15
+
+6.Rajesh can finish 1/5 of his home work in one hour. Seema can finish 3/7 of her homework in 90 minutes and Ramya can finish 3/4 of her homework in three and a half hours. If all of them start their home work at 12.00 PM and can go to play as soon as they all finish their homework. When can they start to play, if they take a break at 3.30 PM for 30 minutes?
+A.5:10 pm
+B.6:30 pm
+C.5:30 pm
+D.5:45 pm
+Ans.c
+Explanation:
+Starting homework at 12 PM and Taking a break at 3:30 PM, we came to know that each of them have already spent 3 hrs and 30 minute i.e 210 min After taking break, they started to do their homework at 4 PM 1. Rajesh can finish 1/5 of his work in 1 hr. i.e in 60 min He can finish 1 work in 60* 5 = 300 min Remaining time to complete his hm work = 300-210= 90 min Starting again at 4 PM,he will finish his homework at 5:30 PM 2. Sema can finish 3/7 of her homework in 90 min She will finish 1 work in 90*(7/3) = 210 min Therefore she finished her work at 3:30 PM 3. Ramya can finish 3/4 of her work in 210 min She will finish 1 work in 210*(4/3 ) min= 280 min Remaining time left for Ramya to complete her work =280 – 210 = 70 min Starting to do homework again at 4 PM,she will complete her work at 5:10 PM Since Rajesh takes longer time to finish the work (completing the work at 5:30 PM), hence they all can start to play at 5:30 PM. That’s the only time they all will meet
+
+7. 3 person can fill tank in 25 min, a can fill in 30 min , b can fill in 35 min and c can empty the 5 gallon per min then what is the capacity of tank?
+A.230
+B.250
+C.200
+D.180
+Ans.a
+Explanation:
+the answer is approximately 230 gallons and if u want exact then it comes 228.25 explanation is given below: 3 person together fill tank in 25 min hence, calculate the time of person C that in how much time he empty the tank so, (1/A)+(1/B)-(1/C)=1/25 i.e, (1/30)+(1/35)-(1/C)=1/25 ………. we get, 1/C=23/1050, while, its given the C can empty 5 gallon per min. therefore (23/1050)=5 and capacity of tank will get if we solve above expression, we get 228.25
+
+8.If Rita spends every day 40 minutes for watering the plants, how much time does Rita spend watering the plants in 20 days?
+A.12hours
+B.13.33hours
+C.12.5hours
+D.15.5hours
+E.14.33hours
+Ans.b
+
+9.If a pipe A can fill a tank in 40 minutes and pipe B fill the same tank in 30 minutes. How long will it take for both pipes together to fill the tank?
+A.17
+B.16
+C.15
+D.120/7
+E.13
+Ans.d
+Explanation:
+Time taken by both pipes together to fill the tank = 1/(1/40 +1/30) = 120/7 min
+
+10.3 men finish painting a wall in 8 days. Four boys do the same job in 7 days. In how many days will 2 men and 2 boys working together paint two such walls of the same size?
+A. 6 6/13 days
+B. 3 3/13 days
+C. 9 2/5 days
+D. 12 12/13 days
+Ans.a
+Explanation:
+1 man’s 1 day work=1/24 1 boy’s 1 day work=1/28 2 men’s 1 day work=(1/24)*2=1/12 2 boys ‘s 1 day work = (1/28)*2=1/14 2 men and 2 boys work together=1/12+1/14 =(7+6)/84 =13/84 no of days taken by 2 men and 2 boys=84/13 6 6/13 Option (a) is the ans

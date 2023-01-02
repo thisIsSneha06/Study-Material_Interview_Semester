@@ -1,0 +1,376 @@
+1. In a covering, a certain distance, the speeds of A and B are in the ratio of 3:4. A takes 30 minutes more than B to reach the destination. The time taken by A to reach the destination is?
+
+    1 hour
+    1 1/2 hour
+    2 hour
+    2 1/2 hour
+
+Answer: Option 3
+
+Solution
+
+Ratio of speeds = 3:4
+Ratio of times taken = 4:3
+Suppose A takes 4x hrs and B takes 3x hrs to reach the destination.
+Then, 4x – 3x = 30/60 => x = 1/2
+Time taken by A = 4x hrs = 4 * 1/2 = 2 hrs.
+
+2. A train 110 m long is running with a speed of 60 km/hr. At what time will it pass a man who is running at 6 km/hr in the direction opposite to that in which the train is going?
+
+    5 sec
+    6 sec
+    7 sec
+    10 sec
+
+Answer: Option 2
+
+Solution
+
+Speed of train relative to man = 60 + 6 = 66 km/hr.
+= 66 * 5/18 = 55/3 m/sec.
+Time taken to pass the men = 110 * 3/55 = 6 sec.
+
+3. A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?
+
+    Rs. 375
+    Rs. 400
+    Rs. 600
+    Rs. 800
+
+Answer: Option 2
+
+Solution
+
+C’s 1 day’s work = 1/3 – (1/6 + 1/8) = 1/3 – 7/24 = 1/24
+A’s wages : B’s wages : C’s wages
+1/6 : 1/8 : 1/24 = 4:3:1
+C’s share = 1/8 * 3200 = Rs. 400
+
+4. A, B, and C started a business with capitals of Rs. 8000, Rs. 10000 and Rs. 12000 respectively. At the end of the year, the profit share of B is Rs. 1500. The difference between the profit shares of A and C is?
+
+    Rs. 300
+    Rs. 400
+    Rs. 500
+    Rs. 600
+    None of these
+
+Answer: Option 5
+
+Solution
+
+Ratio of investments of A, B and C is 8000 : 10000 : 12000 = 4 : 5 : 6
+And also given that, profit share of B is Rs. 1500
+=> 5 parts out of 15 parts is Rs. 1500
+Now, required difference is 6 – 4 = 2 parts
+Required difference = 2/5 (1500) = Rs. 600
+
+5. If Rs. 510 be divided among A, B, C in such a way that A gets 2/3 of what B gets and B gets 1/4 of what C gets, then their shares are respectively?
+
+    Rs. 120, Rs. 240, Rs. 150
+    Rs. 60, Rs. 90, Rs. 360
+    Rs. 150, Rs. 300, Rs. 60
+    None of these
+
+Answer: Option 2
+
+Solution
+
+(A = 2/3 B and B = 1/4 C) = A/B = 2/3 and B/C = 1/4
+A:B = 2:3 and B:C = 1:4 = 3:12
+A:B:C = 2:3:12
+A;s share = 510 * 2/17 = Rs. 60
+B’s share = 510 * 3/17 = Rs. 90
+C’s share = 510 * 12/17 = Rs. 360.
+
+6. The current of a stream runs at the rate of 4 kmph. A boat goes 6 km and back to the starting point in 2 hours, then find the speed of the boat in still water?
+
+    10 kmph
+    21 kmph
+    8 kmph
+    12 kmph
+
+Answer: Option 3
+
+Solution
+
+S = 4
+M = x
+DS = x + 4
+US = x – 4
+6/(x + 4) + 6/(x – 4) = 2
+x = 8
+
+7. In how much time would the simple interest on a certain sum be 0.125 times the principal at 10% per annum?
+
+    1 1/4 years
+    1 3/4 years
+    2 1/4 years
+    2 3/4 years
+
+Answer: Option 1
+
+Solution
+
+et sum = x. Then, S.I. = 0.125x = 1/8 x, R = 10%
+
+Time = (100 * x) / (x * 8 * 10) = 5/4 = 1 1/4 years.
+
+8. Find the cost of fencing around a circular field of diameter 28 m at the rate of Rs.1.50 a meter?
+
+    Rs.150
+    Rs.132
+    Rs.100
+    Rs.125
+
+Answer: Option 2
+
+Solution
+
+2 * 22/7 * 14 = 88
+
+88 * 1 1/2 = Rs.132
+
+9. A pupil’s marks were wrongly entered as 83 instead of 63. Due to the average marks for the class got increased by half. The number of pupils in the class is?
+
+    10
+    20
+    40
+    73
+
+Answer: Option 3
+
+Solution
+
+Let there be x pupils in the class.
+
+Total increase in marks = (x * 1/2) = x/2
+x/2 = (83 – 63) => x/2 = 20 => x = 40.
+
+10. The H.C.F of two numbers is 11 and their L.C.M is 7700. If one of the numbers is 275, then the other is?
+
+    279
+    283
+    308
+    318
+
+Answer: Option 3
+
+Solution
+
+Other number = (11 * 7700)/275 = 308.
+
+11. If the sum of the two numbers is 22 and the sum of their squares is 404, then the product of the numbers is?
+
+    40
+    44
+    80
+    88
+
+Answer: Option 1
+
+Solution
+
+Let the numbers be x and y.
+
+Then, (x + y) = 22 and x2 + y2 = 404
+Now,
+2xy = (x + y)2 – (x2 + y2)
+2xy= 222 – 404 = 484 – 404 = 80
+xy = 40
+
+12. Three pipes A, B and C can fill a tank from empty to full in 30 minutes, 20 minutes and 10 minutes respectively. When the tank is empty, all the three pipes are opened. A, B and C discharge chemical solutions P, Q and R respectively. What is the proportion of solution R in the liquid in the tank after 3 minutes?
+
+    5/11
+    6/11
+    7/11
+    8/11
+
+Answer: Option 2
+
+Solution
+
+Part filled by (A + B + C) in 3 minutes = 3(1/30 + 1/20 + 1/10) = 11/20
+
+Part filled by C in 3 minutes = 3/10
+Required ratio = 3/10 * 20/11 = 6/11
+
+13. The principle that amounts to Rs. 4913 in 3 years at 6 1/4 % per annum C.I. compounded annually, is?
+
+    Rs. 3096
+    Rs. 4076
+    Rs. 4085
+    Rs. 4096
+
+Answer: Option 4
+
+Solution
+
+Principal = [4913 / (1 + 25/(4 * 100))3]
+
+= 4913 * 16/17 * 16/17 * 16/17 = Rs. 4096.
+
+14. If the height of a cone is increased by 100% then its volume is increased by?
+
+    100%
+    200%
+    300%
+    400%
+
+Answer: Option 1
+
+Solution
+
+100%
+
+15. Find the one which does not belong to that group?
+
+    Walk
+    Talk
+    Drink
+    Plank
+    Lick
+
+Answer: Option 4
+
+Solution
+
+Walk, Talk, Drink and Lick are verbs, but not Plank.
+
+16. A sells a bicycle to B at a profit of 20%. B sells it to C at a profit of 25%. If C pays Rs. 225 for it, the cost price of the bicycle for A is?
+
+    Rs. 110
+    Rs. 120
+    Rs. 125
+    Rs. 150
+
+Answer: Option 4
+
+Solution:
+
+125% of 120% of A = 225
+
+125/100 * 120/100 * A = 225
+A = 225 * 2/3 = 150.
+
+17. A person’s present age is two-fifths of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old id the mother at present?
+
+    32 years
+    36 years
+    40 years
+    48 years
+
+Answer: Option 3
+
+Solution
+
+Let the mother’s present age be x years. Then, the person’s present age = 2/5 x years.
+
+(2/5 x + 8) = 1/2 (x + 8)
+2(2x + 40) = 5(x + 8) => x = 40
+
+18. In an election between two candidates A and B, the number of valid votes received by A exceeds those received by B by 15% of the total number of votes polled. If 20% of the votes polled were invalid and a total of 8720 votes were polled, then how many valid votes did B get?
+
+    2160
+    2420
+    2834
+    3150
+    None of these
+
+Answer: Option 3
+
+Solution
+
+Let the total number of votes polled in the election be 100k.
+
+Number of valid votes = 100k – 20% (100k) = 80k
+Let the number of votes polled in favour of A and B be a and b respectively.
+a – b = 15% (100k) => a = b + 15k
+=> a + b = b + 15k + b
+Now, 2b + 15k = 80k and hence b = 32.5k
+It is given that 100k = 8720
+32.5k = 32.5k/100k * 8720 = 2834
+The number of valid votes polled in favour of B is 2834.
+
+19. The cost of 16 pens and 8 pencils is Rs.352 and the cost of 4 pens and 4 pencils is Rs.96. Find the cost of each pen?
+
+    Rs.32
+    Rs.28
+    Rs.36
+    Rs.25
+    None of these
+
+Answer: Option 5
+
+Solution
+
+Let the cost of each pen and pencil be ‘p’ and ‘q’ respectively.
+
+16p + 8q = 352 — (1)
+4p + 4q = 96
+8p + 8q = 192 — (2)
+(1) – (2) => 8p = 160
+=> p = 20
+
+20. I. a2 + 11a + 30 = 0,
+
+      II. b2 + 6b + 5 = 0 to solve both the equations to find the values of a and b?
+
+    If a < b
+    If a = b
+    If the relationship between a and b cannot be established
+    If a > b E. If a = b
+
+Answer: Option 2
+
+Solution
+
+I. (a + 6)(a + 5) = 0
+
+=> a = -6, -5
+II. (b + 5)(b + 1) = 0
+=> b = -5, -1 => a = b
+
+21. 32% of 425 – ?% of 250 = 36
+
+    20
+    40
+    60
+    80 E. 70
+
+Answer: Option 2
+
+Solution
+
+32/100 * 425 – x/100 * 250 = 36
+
+ => x/100 * 250 = 136 – 36 = 100
+=> x = (100 * 100)/250 = 40
+
+22. The radius of a wheel is 22.4 cm. What is the distance covered by the wheel in making 500 resolutions?
+
+    252 m
+    704 m
+    352 m
+    808 m
+    None of these
+
+Answer: Option 2
+
+Solution
+
+In one resolution, the distance covered by the wheel is its own circumference. Distance covered in 500 resolutions.
+
+= 500 * 2 * 22/7 * 22.4 = 70400 cm = 704 m
+
+23. Which of the following has the same relationship as that of Money: Wealth?
+
+    Pity: Kindness
+    Cruel: Anger
+    Wise: Education
+    Pride: Humility E. None of these
+
+Answer: Option 1
+
+Solution
+
+-NA-

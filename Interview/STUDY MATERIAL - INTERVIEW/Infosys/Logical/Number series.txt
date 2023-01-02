@@ -1,0 +1,69 @@
+1. Choose the correct alternative that will continue the same pattern and fill in the blank spaces:
+2, 3, 5, 7, 11, (….), 17
+A. 12
+B. 13
+C. 14
+D. 15
+Answer: Option B
+Solution:
+Clearly, the given series consists of prime numbers starting from 2. The prime number after 11 is 13. So, 13 is the missing number
+
+2.522 1235 2661 4800 7652 11217 ?
+A. 15495
+B. 16208
+C. 14782
+D. 16921
+Answer: Option A
+
+3.What is the 8th term in the series 1, 4, 9, 18, 35, 68, . . .
+A.262
+B.148
+C.342
+D.112
+Answer: Option c
+Explanation:
+1, 4, 9, 18, 35, 68, . . . The pattern is 1 = 21 – 1 4 = 22 – 0 9 = 23 + 1 18 = 24 + 2 35 = 25 + 3 68 = 26 + 4 So 8th term is 28 + 6 = 262
+
+4. 8 11 21 15 18 21 22
+A.25 18
+B.25 21
+C.25 29
+D.24 21
+E.22 26
+Answer: Option B
+
+5. Look at this series: 2, 6, 18, 54, … What number should come next?
+A.108
+B.148
+C.162
+D.216
+Answer: Option C
+
+6. Look at this series: F2, __, D8, C16, B32, … What number should fill the blank?
+A.A16
+B.G4
+C.E4
+D.E3
+Answer: Option C
+
+7. Look at this series: V, VIII, XI, XIV, __, XX, … What number should fill the blank?
+A.IX
+B.XXIII
+C.XV
+D.XVII
+Answer: Option D
+
+8.Look at this series: 4, 7, 25, 10, __, 20, 16, 19, … What number should fill the blank?
+A.13
+B.15
+C.20
+D.28
+Answer: Option A
+
+9. 6 10 14 18 22 26 30
+A.36 40
+B.33 37
+C.38 42
+D.34 36
+E.34 38
+Answer: Option D

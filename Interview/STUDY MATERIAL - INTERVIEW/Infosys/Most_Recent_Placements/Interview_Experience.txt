@@ -1,0 +1,55 @@
+I was in Galgotias College.
+
+Infosys had visited our campus for “Systems Engineer” post. On 21st of September, we had our written paper round. It consisted of 3 sections:
+
+1. Arithmetic reasoning and analytical thinking.
+2. Mathematical critical thinking and logical reasoning.
+3. Test of communicative English.
+
+The first section contained a total of 15 questions that had to be solved in 35 mins. 5 questions were on Syllogisms (confusing syllogism actually), 5 on Data Interpretation (very easy) and 5 on data sufficiency (moderate). Enough time to solve all the question!
+
+The second section was tough. We had to solve 15 questions in 25 mins. Questions were Easy But time consuming, try to manage your time more and more in this section!
+
+The third section was easier. It consisted of 40 questions to be solved in 35 mins. There were 2 paragraphs, fill in the blanks, theme detection, choose the correct options type of questions. My advice is to “Make your tenses clear for this round”.
+
+    No of Students Applied – 849
+    No of Students Qualified for Interview – 317
+
+This is how my interview actually went facing an old age, humble and kind HR:
+
+I opened the door and asked. Sir may I come in?
+
+Conversation
+
+    Interviewer: You Ashwani?
+    Me: Yes Sir!
+    Interviewer: Yes Come in and have a seat!
+    Me: Thank You sir, Good Afternoon! (By mistake, I left the door opened)
+    Interviewer: Will you please close the door?
+    Me: Sure sir! (I closed the door and sat again)
+    (The interviewer scanned both the pages of my resume and said) :
+    Interviewer: So Ashwani, You Write Blogs?
+    Me: Yes Sir.
+    Interviewer: So tell me what was the recent blog that you have written?
+    Me: Sir, It was about “Three Way Handshaking during TCP connection”
+    Interviewer: Tell me about your summer training?
+    Me: I told (Training was all about networking, peer to peer communication, Network administration and Linux system administration)
+    Interviewer: Tell me through which server you installed the OS?
+    Me: (I was confused and said) Sir I did manual installation of Ubuntu 14.04 through pen drive (multiboot)
+    Interviewer: (smiled) okay tell me which command is used to see the current directory in which you are?
+    Me: Sir Its “pwd” command.
+    Interviewer: Tell me about your final year project?
+    Me: (told) It was all about “To Reduce Energy Consumption in a Wireless Sensor Network”
+    Interviewer: Tell me about your summer training project?
+    Me: (told) It was all about “Campus Network Design”
+    Interviewer: So you did your training from MNNIT…good!
+    Me: Thank you sir!
+    Interviewer: Okay Ashwani, so do you have any idea that what will be your post when you will join Infosys? (HR Question)
+    Me: Yes Sir, If I will be selected, I will join as “Systems Engineer” (during the pre-placement talk, we were told about this)
+    Interviewer: Ashwani, I think we are done so you may leave and all the best for your future!
+    Me: Thank you sir, And have a good day ahead!
+    Interviewer: Thank you and You also have a good day.
+
+The result was declared on 4th of October and I got a mail from the Placement cell of our college and I got placed 🙂
+
+(finally, 208 students got placed in Infosys from our college).

@@ -1,0 +1,52 @@
+In our college 500 students were eligible for the first round.
+
+FIRST ROUND:
+
+Testing Areas | No.of Questions | Time (in minutes).
+
+Quantitative Aptitude | 10 | 35.
+Logical Reasoning | 15 | 25.
+Verbal Ability | 40 | 35.
+Total | 65 | 95.
+
+Above is the pattern for first round. We cannot switch between sections. Sectional timings were there.
+
+Quants was very easy. Main topics in quants are crypto arithmetic, time and distance, probability, arrangements. But we did not get enough time to read all questions. So we should be fast in skimming and scanning the paragraph questions.
+
+Out of 500 only 75 students were selected for the next round.
+
+SECOND ROUND (Technical and hr combined) :
+
+While I entered the hall interviewer asked me to sit. After he asked the default question "say about yourself".
+
+Next question was "Explain your project". I had taken sketch of my project along with the file. With the help of diagram I explained my project which made the interviewer get impressed. Also asked to explain the paper presentation which I had done. After that, he asked questions from my area of interest "DBMS". Asked to write a query.
+
+1. Find the top 2nd salary from employee table.
+
+2. Find the student mark by combining three tables using joins.
+
+Questions from c (just asked to explain the below concepts).
+
+1. Structure.
+2. Union.
+3. Pointers.
+
+Then questions from java.
+
+1. Oops concepts (inheritance, polymorphism).
+2. Final class.
+3. Abstract class.
+4. Why java doesn't support multiple inheritance.
+5. Use of interface.
+
+Then he asked "Any questions for me?".
+
+Grab this opportunity and ask any interesting question about infosys.
+
+These are the questions asked in second round.
+
+If we are strong in basics of c, java, dbms we can easily clear the second round.
+
+70 students cleared the second round. And I am one of them. IndiaBix interview experiences helped me a lot during my preparations. Do read it.
+
+Self confidence is the most attractive quality a person can have. So be confident to achieve your dreams.

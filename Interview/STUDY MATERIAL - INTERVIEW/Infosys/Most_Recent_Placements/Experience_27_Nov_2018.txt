@@ -1,0 +1,30 @@
+On 26th November, 2018:
+
+On this day pre-placement talk and written test was planned. I am basically from Berhampur (165 KM from Bhubaneswar) and we were asked to report to ITER college before 9 AM for which our college arranged a bus and we were around 55-60 aspirants. We reached there by 7 AM and waited for 2 Hour after which their authority called us for attending pre-placement talk where the host talked about various projects and gave a brief insight of Infosys for around an hour and after which we were proceeded to appear the written test batch-wise i.e. Around 30-35 students in one room to appear the test.
+
+The test started at 11 AM. The test was online and different set of questions for students sitting alternatively. The pattern for the test was same as infosys conducts everywhere i, e. 10 questions from quants, 15 from logical reasoning and 35 from verbal ability. The total time for the test was 95 minutes (35 minutes for verbal ability, 35 minutes for Logical Reasoning and rest for Quants). Difficulty level was moderate and comprehension part is lengthy.
+
+The test was over and after that we went for lunch and waited for results. The results were out around 4 in the evening and out of around 500-600 students appeared the test out of which 94 were selected for PI.
+
+On 27th November, 2018:
+
+Our Personal interview was planned on this day at CET, Bhubaneswar. We were asked to report at CET by 8.30 AM and there they collected our resume and an attendance sheet was signed in which my name was at last because I was a bit late. They called for interview in First come First serve way i.e. One who submitted the resume first was called for interview first.
+
+The interview started at 10 AM, there were around 7-8 different panels where one interviewer takes both Technical and HR interview. The interview process was fast and in parallel way. They were checking the semester results and those who are having backlog were not allowed to attend the interview. They called me at 1 PM for interview and I was the last guy to attend that.
+
+Questions that were asked:.
+
+1. Introduce Yourself.
+2. What do you do apart from studying books?
+3. Explain about three-tier architecture.
+4. What is transaction in DBMS?
+5. Explain about your project and some questions on them.
+6. Can you write program to find transpose of a matrix? Explain verbally.
+7. What is method overloading and overriding?
+8. Where would you prefer to work if selected?
+9. On what technology would you prefer to work?
+10. Any questions for me.
+
+After that the authority asked us to leave to home and the result will be sent to Our college's Training and Placement cell. The result was out at around 6 PM on the same day, they sent a excel sheet which contains the name of 60 students who were selected for Infosys which contains my name too.
+
+That was my experience of Infosys Off-campus drive. Hope it will be useful for many.

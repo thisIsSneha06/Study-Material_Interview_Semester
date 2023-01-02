@@ -1,0 +1,87 @@
+Question 1 An error 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:
+A.1.04
+B.2.04
+C.3.04
+D.4.04
+Ans:D
+Explanation:
+100 cm is read as 102 cm. A1 = (100*100)Sq.cm A2 = (102*102)Sq.cm (A2 – A1) = 1022−10021022-1002 = (102 + 100) x (102 – 100) = 404 sq.cm.
+
+Question 2 If the length of a certain rectangle is decreased by 4 cm and the width is increased by 3 cm, a square with the same area as the original rectangle would result. Find the perimeter of the original rectangle?
+A.20
+B.30
+C.40
+D.50
+Ans:D
+Explanation:
+Let x and y be the length and breadth of the rectangle respectively. Then, x – 4 = y + 3 or x – y = 7 —-(i) Area of the rectangle =xy; Area of the square = (x – 4) (y + 3) (x – 4) (y + 3) =xy <=> 3x – 4y = 12 —-(ii) Solving (i) and (ii), we get x = 16 and y = 9. Perimeter of the rectangle = 2 (x + y) = [2 (16 + 9)] cm = 50 cm
+
+Question 3 The length of a rectangle is twice its breadth. If its length is decreased by 5 cm and breadth is increased by 5 cm, the area of the rectangle is increased by 75 sq. cm. Find the length of the rectangle.
+A.10 cm
+B.15 cm
+C.20 cm
+D.18 cm
+Ans:C
+Explanation:
+Let breadth = x. Then, length = 2x. Then, (2x – 5) (x + 5) – 2x * x = 75 => 5x – 25 = 75 => x = 20. Length of the rectangle = 20 cm.
+
+Question 4 The sector of a circle has the radius of 21 cm and central angle 135o. Find its perimeter?
+A.91.5 cm
+B.93.5 cm
+C.94.5 cm
+D.92.5 cm
+E.None of these
+Ans:A
+Explanation:
+Perimeter of the sector = length of the arc + 2(radius) = (135/360 * 2 * 22/7 * 21) + 2(21) = 49.5 + 42 = 91.5 cm
+
+Question 5 A plot has a concrete path within its borders on all sides having the uniform width of 4m. The plot is rectangular with sides 20m and 15m. The charge of removing concrete is Rs. 6 per sq.m. How much is spent in removing all the concrete?
+A.Rs. 1548
+B.Rs. 1296
+C.Rs. 1500
+D.Rs. 1083
+Ans:B
+
+Question 6 A tree breaks and falls to the ground such that its upper part is still partially attached to its stem. At what height did it break, if the original height of the tree was 24 cm and it makes an angle of 30° with the ground?
+A.12 cm
+B.8 cm
+C.9.5 cm
+D.7.5 cm
+Ans:B
+
+Question 7 A room is 8 meters long and 4 meters wide. How many paving stones each measuring 2.5dm by 2dm are required to pave its floor?
+A.700
+B.720
+C.640
+D.810
+Ans:C
+
+Question 8 The barrel of a fountain pen is cylindrical in shape which radius of the base as 0.7 cm and is 5 cm long. One such barrel in the pen can be used to write 300 words. A barrel full of ink which has a capacity of 14 cu cm can be used to write how many words approximately?
+A.598
+B.656
+C.508
+D.545
+E.687
+Ans:D
+Explanation:
+Volume of the barrel of pen = πr2h = 22/7 * 0.7*0.7 * 5 = 7.7 cu cm A barrel which has capacity 7.7 cu cm can write 300 words So which has capacity 14 cu cm can write = 300/7.7 * 14 = 545 words
+
+Question 9 A vessel is in the form of a hemispherical bowl on which is mounted a hollow cylinder. The diameter of the sphere is 14 cm and the total height of vessel is 15 cm, find the capacity of the vessel.
+A.1977.23 cm3
+B.1999.45 cm3
+C.1840.67 cm3
+D.1950.67 cm3
+E.1833.27 cm3
+Ans:D
+Explanation:
+Diameter is 14, so radius is 7 cm Total height = 15 cm, so height of cylinder = 15-7 = 8 cm (because height of hemisphere is same as its radius) Capacity of vessel = volume of cylinder + vol of hemisphere So = πr2h + 2/3 *πr3 = 22/7 * 7 * 7 * 8 + 2/3 * 22/7 * 7 * 7 * 7 = 1232 + 718.67 = 1950.67 cu cm
+
+Question 10 The diameters of the internal and external surfaces of a hollow spherical shell are 10cm and 6 cm respectively. If it is melted and recast into a solid cylinder of length 8/3 cm, find the diameter of the cylinder.
+A.28√2 cm
+B.14√2 cm
+C.26√2 cm
+D.18√2 cm
+E.22√2 cm
+Ans:A
+Explanation:
+External diameter of a sphere = 10 cm Internal diameter of the sphere = 6 cm Volume of the sphere = 4/3 π (R3 – r3) = (4/3) (22/7) (103 – 63) = (4/3) (22/7) (784) = 9856 / 3 cm3 Height of the cylinder formed = 8/3 cm Let the radius of the cylinder be ‘r’ cm Volume of the cylinder = πr2h = 22/7 * r2 * 8/3 = 22/7 * r2 * 8/3 = 9856 / 3 r2 = 392 r = 14√2 cm So Diameter of the cylinder = 2 x 14√2 =28√2 cm

@@ -1,0 +1,90 @@
+Question 1 The price of a product is increased by 20%. If the original price is Rs. 300, what is the final price of the product?
+A.350
+B.360
+C.370
+D.375
+Ans. C
+Explanation:
+Final Price = Initial price + Initial price x 20/100 = Initial price x (1+20/100) = Rs.300x(1.2) = Rs.360
+
+Question 2 Mukul’s income is 10% more than Sunil’s. How much less is Sunil’s income than that of Mukul’s?
+A.8.09 %
+B.9.09 %
+C.7.09 %
+D.7.90 %
+Ans. B
+Explanation:
+Sunil’s income is less than Mukul’s = [(10 / (100 + 10)] × 100 % = ( 1000 / 110 )% = 9.09 %
+
+Question 3 The total population of a country is 294000, out of which 150000 are males. Out of every 100 males, 98 can read and write, but only 53% of the total population can do so. Find the percentage of women who can read and write.
+A.6.125 %
+B.5.125 %
+C.6.000 %
+D.4.125 %
+Ans.A
+Explanation:
+The number of men who can read and write = 150000 × (98 ÷ 100) =147000 Number of men and women who can read and write =294000 × (53 ÷ 100) =155820 Number of women who can read and write 155820 – 147000 = 8820 Thus, out of 144000 women 8820 can read and write. Required percentage = (8820 × 100) ⁄ 144000 %= 6.125
+
+Question 4 (0.756 x 3/4) terms of rate percent is equivalent to ?
+A.18.9%
+B.37.8%
+C.56.7%
+D.75%
+Ans. C
+Explanation:
+(0.756 x 3/4) = (756/1000) x (3/4) x 100 % = 56.7%
+
+Question 5 If 90% of A = 30% of B and B = C% of A,then the value of C is ?
+A.900
+B.800
+C.600
+D.300
+Ans. D
+Explanation:
+90A/100 = 30B/100 = (30/100) x AC/100 ∴ C = 100 x (100/30) x (90/100) = 300
+
+Question 6 If 0.5% of A =85 paise, then the value of A is?
+A.Rs. 170
+B.Rs. 17
+C.Rs. 1.70
+D.Rs. 4.25
+Ans. A
+Explanation:
+0.5/100 of A = 85/100 ∴ A = Rs. (85 / 0.5) = Rs. 170
+
+Question 7 30 quintals are what percent of 2 metric tonnes?
+A.15%
+B.1.5%
+C.150%
+D.30%
+Ans. C
+Explanation:
+Required percent = {30/(2 x 10)} x 100 % = 150%
+
+Question 8  A candidate attempted 12 questions and secured full marks in all of them. If he obtained 60% in the test and each question carried equal marks, then what was the total number of questions in the test?
+A.36
+B.30
+C.25
+D.20
+Ans. D
+Explanation:
+Let the number of question be Y. 60% of Y = 12 60Y / 100 =12 Y = 20
+
+Question 9 Rajesh solved 80 percent of the questions in an examination correctly, out of 41 questions solved by Rajesh 37 questions are correct and of the remaining questions out of 8 questions, 5 questions have been solved by Rajesh correctly then find the total number of question asked in the examination?
+A.75
+B.65
+C.60
+D.Can’t be determined
+Ans. B
+Explanation:
+Suppose there are 8y questions were asked apart from the 41 question.Then 37 + 5y/41 + 8y = 80% = 4/5 ⇒ 185 + 25y = 164 + 32y ⇒ 7y = 21 ⇒ y = 3 ∴ Total no. of questions = 41 + 8 x 3 = 65.
+
+Question 10 The difference between 78% of a number and 59% of the same number is 323. What is 62% of that number?
+A.1054
+B.1178
+C.1037
+D.1159
+E.None of the above
+Ans. A
+Explanation:
+Let the number be N. According to the question, (78 – 59)% of N = 323 ⇒ (19 x N)/100 = 323 ∴ N = (323 x 100)/19 = 1700 ∴ 62% of 1700 = (62/100) x 1700 = 1054

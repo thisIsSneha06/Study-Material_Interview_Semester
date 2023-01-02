@@ -1,0 +1,102 @@
+1. There are 1000 junior and 800 senior students in a class.And there are 60 sibling pairs where each pair has 1 junior and 1 senior. One student is chosen from senior and 1 from junior randomly.What is the probability that the two selected students are from a sibling pair?
+a.714 / 80000
+b.724 / 80000
+c.741 / 80000
+d.722 / 70000
+Ans: a
+Sol:
+Junior students = 1000
+Senior students = 800
+60 sibling pair = 2 x 60 = 120 student
+One student chosen from senior = 800 C 1
+=800
+One student chosen from junior= 1000 C 1 =1000
+Therefore, one student chosen from senior and one student chosen from junior n(s) = 800 x 1000=800000
+Two selected students are from a sibling pair n(E)= 120 C 2 =7140
+therefore,P(E) = n(E) / n(S)=7140/800000 = 714/80000
+
+2. If a refrigerator contains 12 cans such that 7 blue cans and 5 red cans. In how many ways can we remove 8 cans so that at least 1 blue can and 1 red can remain in the refrigerator.
+a.455
+b.521
+c.441
+d.213
+Ans: a
+Sol:
+Possible ways to draw 8 balls from the refrigerator which contains at least 1 blue and 1 red can after the drawing are (6,2) (5,3) (4,4).
+For (6, 2) = ⇒ 7c6*5c2 ⇒ 7*10=70
+For (5, 3) = ⇒ 7c5*5c3 ⇒ 21*10=210
+For (4, 4) = ⇒ 7c4*5c4 ⇒ 35*5=175 So Total ways = 70+210+175=455
+
+3.A Jar contains 18 balls. 3 blue balls are removed from the jar and not replaced.Now the probability of getting a blue ball is 1/5 then how many blue balls jar contains initially?
+a.5
+b.6
+c.7
+d.8
+Ans: b
+Sol:
+x/15 = 1/5
+x=3
+3 + 3 (removed 3 blue balls) = 6
+
+4.There is a school were 60% are girls and 35% of the girls are poor. Students are selected at random, what is the probability of selecting a poor girl out of total strength?
+A.14/39
+B.35/100
+C.21/100
+D.22/45
+Ans. C
+Explanation:
+Let take 100 students outoff 100 60 are girls among girls poor girls are =35% 0f 60=21 pbt of selecting poor girl in total strength=21/100
+
+5.What is the probability of drawn an ace or a space or both from a dew of cards.
+A.13/52
+B.26/52
+C.16/52
+D.16/50
+Ans: C
+Explanation:
+There are 13 spades in a standard deck of cards. There are four aces in a standard deck of cards. One of the aces is a spade. So, 13 + 4 – 1 = 16 spades or aces to choose from. Since we have a total of 52 cards, the probability of selecting an ace or a spade is 16 / 52.
+
+6. You are given three coins: one has heads on both faces, the second has tails on both faces, and the third has a head on one face and a tail on the other. You choose a coin at random and toss it, and it comes up heads. The probability that the other face is tails is
+A.1/4
+B.1/3
+C.1/2
+D.2/3
+Ans: B
+Explanation:
+ans = 1/3 becoz ther is only one chance to get tail on other side of coin,amnog three coins,according to the question
+
+7. In a horse racing competition, there were 18 numbered 1 to 18.The organizers assigned a probability of winning the race to each horse based on horses health and training the probability that horse one would win is 1/7, that 2 would win is 1/8, and that 3 would win is 1/7.Assuming that tie is impossible. Find the chance that one of these three will win the race?
+A.22/392
+B.1/392
+C.23/56
+D.391/392
+Ans:C
+Explanation:
+CORRECT ANSWER IS 23/56 HORSE 1: 1/7 WINNING PROBABILITY HORSE 2: 1/8 WINNING PROBABILITY HORSE 3: 1/7 WINNING PROBABILITY ONE OF THESE WIN THE RACE: => 1/7 + 1/8 + 1/7 => 8/56 +7/56 + 8/56 (TAKING LCM) => 23/56
+
+8.There are 1000 junior and 800 senior students in a class. And there are 60 sibling pairs where each pair has 1 junior and 1 senior.1 student is chosen from senior and 1 from junior randomly.What is the probability that the two selected students are from a sibling pair?
+A.7140/800000
+B.8450/800000
+C.7455/800000
+D.8230/800000
+Ans:A
+Explanation:
+Junior student = 1000 Senior student = 800 60 sibling pair = 2 x 60 = 120 student Probability that 1 student chosen from senior = 800 Probability that 1 student chosen from junior = 1000 Therefore,1 student chosen from senior and 1 student chosen from junior n(s) = 800 x 1000 = 800000 Two selected student are from a sibling pair n(E) = 120C2 = 7140 Therefore P(E) = n(E)/n(S) = 7140⁄800000
+
+9.There were two candidates in an election. Winner candidate received 62% of votes and won the election by 288 votes. Find the number of votes cast to the winning candidate?
+A.456
+B.744
+C.912
+D.1200
+Ans:B
+Explanation:
+W = 62% L = 38% 62% – 38% = 24% 24% ——– 288 62% ——– ? => 744
+
+10.A candidate who gets 30% of the marks fails by 50 marks. But another candidate who gets 45% marks gets 25 marks more than necessary for passing. Find the number of marks for passing?
+A.150
+B.200
+C.250
+D.275
+Ans:B
+Explanation:
+30% ———— 50 45% ———— 25 ———————- 15% ————- 75 30% ————– ? 150 + 50 = 200 Marks

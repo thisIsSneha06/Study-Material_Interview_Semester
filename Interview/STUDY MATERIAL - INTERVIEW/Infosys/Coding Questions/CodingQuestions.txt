@@ -1,0 +1,22 @@
+Find the distinct elements in a given array.
+Program to sort first half of an array in ascending and second half in descending order.
+Replacing substring in a string
+Balanced parenthesis checker
+Program to find the transpose of a matrix
+Pyramid pattern printing using stars
+Pyramid pattern printing using numbers
+Diamond pattern printing using stars
+Diamond pattern printing using numbers
+
+// Important Questions
+Program to sort the array elements based on their frequency
+Program to remove vowels from a string
+Program based on opening and closing gates of a water reservation system
+Program on encrypting the code
+Removing brackets from n algebraic expression
+Arranging flowers in a bouquet
+Program on building the largest house
+
+
+
+

@@ -1,0 +1,99 @@
+1. How many 4 digit numbers contain number 2.
+a. 3170
+b. 3172
+c. 3174
+d. 3168
+Ans: D
+Sol: Total number of 4 digit numbers are 9000 (between 1000 and 9999).
+We find the numbers without any two in them. So total numbers are 8 x 9 x 9 x 9 = 5832 So numbers with number two in them = 9000 – 5832 = 3168
+
+2. How many three digit numbers ABC are formed where at least two of the three digits are same.
+a. 252
+b. 260
+c. 213
+d. 226
+Ans: a
+Sol: Total 3 digit numbers = 9 x 10 x 10 = 900
+Total number of 3 digit numbers without repetition = 9 x 9 x 8 = 648
+So a number of three digit numbers with at least one digit repeats = 900 – 648=252
+
+3. In a cycle race, there are 5 persons named as J,K,L,M,N participated for 5 positions so that in how many number of ways can M finishes always before N?
+a. 70
+b. 60
+c. 80
+d. 22
+Ans: b
+Sol: Total number of ways in which 5 persons can finish is 5! = 120 (there are no ties) Now in half of these ways M can finish before N.
+
+4. There are 16 people, they divide into four groups, now from those four groups select a team of three members, such that no two members of the team should belong to the same group.
+a.112
+b.234
+c.256
+d.214
+Ans: c
+Sol: We can select any three of the 4 groups in 4 C 3
+ways. Now from each of these groups, we can select 1 person in 4 ways. So total ways = 4 x 4 x 4 x 4 = 256
+
+5. 7 people have to be selected from 12 men and 3 women, Such that no two women can come together. In how many ways we can select them?
+a. 2772
+b. 2773
+c. 2775
+d. 2134
+Ans: 2772
+Sol: We can select only one woman, and remaining 6 from men. So 12 C 6 × 3 C 1 = 2772
+
+6. Tennis players take part in a tournament. Every player plays twice with each of his opponents. How many games are to be played?
+a. 210
+b. 123
+c. 250
+d. 215
+Ans: a
+Sol: We can select two teams out of 15 in 15 C 2 ways. So each team plays with other teams once. Now to play two games, we have to conduct 15 C 2 x 2 = 210 games.
+
+7. Find the no of ways in which 6 toffees can be distributed over 5 different people namely A,B,C,D,E.
+a. 3
+b. 4
+c. 6
+d. 5
+Ans : d
+Sol: We assume that all the toffees are similar. Then Number of ways are ( n + r −1) C r −1
+HereA+B+C+D+E=6
+Here r = 5, n = 6
+Number of ways = 6+5−1 C 5−1 = 10 C 4 = 210.
+If all the toffees are different, then each toffee can be distributed to any of the five. So total ways are 5
+
+8. A shop has 4 shelves, 3 wardrobes, 2 chairs and 7 tables for sale. You have to buy a. 1 shelf
+b. 1 wardrobe
+c. either 1 chair or 1 table
+How many selections can be made?
+a. 110
+b. 109
+c. 108
+d. 107
+Ans : c
+Sol:
+The way to answer this question
+4 C 1 × 3 C 1 × 2 C 1 + 4 C 1 × 3 C 1 × 7 C 1 = 108
+
+9. How many ways can one arrange the word EDUCATION such that relative positions of vowels and consonants remain same?
+a. 2880
+b. 2180
+c. 2670
+d. 2560
+Ans: a
+Sol: The word EDUCATION is a 9 letter word with none of the letters repeating
+The vowels occupy 3,5,7th & 8th position in the word & remaining five positions are occupied by consonants
+As the relative position of the vowels & consonants in any arrangement should remain the same as in the word EDUCATION. The four vowels can be arranged in 3rd,5th,7th & 8th position in 4! ways.
+similarly, the five consonants can be arranged in 1st , 2nd, 4th, 6th & 9th position in 5! ways Hence the total number of ways = 5!×4!=120×24=2880
+
+10. There are 8 digits and 5 alphabets.In how many ways can you form an alphanumeric word using 3 digits and 2 alphabets?
+a. 33190
+b. 33210
+c. 41200
+d. 43200
+Ans: d
+Sol:
+Select 3 digits from 8 digits i. e. 8 C 3 ways
+And also select 2 alphabets from 5 alphabets i.e., 5 C 2 ways
+Now to form an alphanumeric word of 5 characters we have to arrange the 5 selected digits. So the answer is . 8 C 3
+× 5 C 2 × 5! = 43200

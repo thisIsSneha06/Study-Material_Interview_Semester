@@ -1,0 +1,104 @@
+1. A train covered a distance at a uniform speed .if the train had been 6 km/hr faster it would have been 4 hour less than schedule time and if the train were slower by 6 km/hr it would have been 6 hrs more.find the distance.
+a.720 km
+b.820 km
+c.750 km
+d.760 km
+Ans : a
+Sol: Let t be the usual time taken by the train to cover the distance Let d be the distance, s be the usual speed
+Usual time taken →
+d/s = t => d = t × s
+ds +6 =t–4 t × ss +6 =t–4
+ts = ts + 6t – 4s – 24 6t – 4s – 24 = 0 →
+(1)
+d/(s – 6) = t + 6
+ts = ts – 6t + 6s – 36
+– 6t + 6s – 36=0 →
+(2)
+Solving (1) and (2), v get s = 30 km/h t = 24 hrs
+d = t × s
+d = 30×24
+= 720 km
+
+2. A train leaves Meerut at 5 a.m. and reaches Delhi at 9 a.m. Another train leaves Delhi at 7 a.m. and reaches Meerut at 10.30 a.m. At what time do the two trains travel in order to cross each other ?
+a.7:56 am
+b.8:56 am
+c.7:26 am
+d.9:56 am
+Ans. a
+Sol: Let the total distance be x
+So the speed of 1st train is x/4 and 2nd train x/3.5
+In 2 hours 1st train covers half of the total distance . So remaining is only half of the total distance(ie x/2). Let t be the time taken
+t × x 4+ t × x 3.5= x 2
+t = 1415
+i.e. 56 min
+i.e. Total time taken= 2 hrs + 56 min
+Time they cross each other is 7:56 am (5+2.56) Answer 7:56 am
+
+3. A train goes from stations A to B. One day there is a technical problem at the very beginning of the journey & hence the train travels at 3/5 of it’s original speed and so it arrives 2 hours late. Had the problem occurred after 50 miles had been covered, the train would have arrived 40 min earlier(i.e., only 120-40 = 80 min late). What is the distance between the 2 stations?
+a.150 miles
+b.170 miles
+c.140 miles
+d.160 miles
+Ans. a
+Sol: For 1 mile the train is late by 40 / 50 min or 4/5 minutes. Or it is late by 1 minute for every 5/4 miles. For 120 minutes late it has to travel 120 x 5/4 = 150 miles.
+
+4.Two men start from opposite banks of a river . They meet 340 meters away from one of the banks on forward journey. After that they meet at 170 meters from the other bank of the river on their backward journey. What will be the width of the river (in meters)?
+A.1.3kms
+B.400 m
+C.1 km
+D.850 m
+Ans.d
+Explanation:
+Let the two opposite ends of the river be X and Y and the distance between them be D meters.(i.e., width = D meters) Let P and Q be the two men starting from the opposite banks(i.e., from X and Y respectively).
+Let the speed of P and Q be A and B m/hr . I meet : During I meet, P travels 340m from X while Q travels (D – 340)m from Y. Therefore, Time taken for P to travel 340m = Time taken for Q to travel (D – 340) Or 340 / A = (D – 340) / B Or 340 / (D – 340) = A / B …(1) II meet : After crossing spot I, both of them proceed in their respective directions, reach banks and return back to cross each other at Spot II which is 170m from Y.
+From Spot I to Spot II, P would had travelled a distance of (D – 340) + 170 m From Spot I to Spot II, Q would had travelled a distance of 340 + (D – 170) m Time taken by P to travel from Spot I to Spot II will be the same as that of Q from Spot I to Spot II Therefore, A / (D – 340) + 170 = B / 340 + (D – 170) Or (D – 340) + 170 / 340 + (D – 170) = A / B …(2) From equations I and II, we get, 340 / (D – 340) = (D – 340) + 170 / 340 + (D – 170) 340 / (D – 340) = D – 170 / D + 170 By Cross- Multiplying, 340 (D + 170) = (D – 170) (D – 340) 340D + 57800 = D2 – 170D – 340D + 57800 D2 – 850D = 0 By Factorizing, D(D – 850) = 0 D = 850 Hence the width of the river = 850 m
+
+5.When a train travels at a speed of 60kmph,it reaches the destination on time.when the same train travels at a speed of 50kmph,it reaches its destination 15min late.what is the length of journey?
+A.75km
+B.50km
+C.60km
+D.85km
+Ans.a
+Explanation:
+Let x be the time reached with the speed 60km/h 50km/h —-> x+15 Distance is equal so 60(km/h)× xhr = 50(km/h) × (x+15) hr So 60 x = 50x + 750 So the would be in km And x = 75 So 75km
+
+6. A girl goes to her office for work which is 50 miles. She goes to her office few distance by bicycle and remaining by train. The speed of bicycle is 15 mph and that of train is twice of the bicycle. If she spend 20 min. more on bicycle, then total time taken by her from going to office from her home?
+A.1 hr 30 min
+B.2 hr 30 min
+C.2 hr 20 min
+D.2 hr 50 min
+Ans.b
+Explanation:
+Let time travelled in train is x min then in cycle (x+20) min. (30/60)x + (15/60)(x + 20) = 50 or x = 60 Total time taken 60 + (60 + 20) = 2 hr 20 min
+
+7. A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is
+A.2 km/hr
+B.3 km/hr
+C.4 km/hr
+D.5 km/hr
+Ans.d
+
+8. If Rahul rows 15 km upstream in 3 hours and 21 km downstream in 3 hours, then the speed of the stream is
+A.5 km/hr
+B.4 km/hr
+C.2 km/hr
+D.1 km/hr
+Ans. d
+Explanation:
+Rate upstream = (15/3) kmph Rate downstream (21/3) kmph = 7 kmph. Speed of stream (1/2)(7 – 5)kmph = 1 kmph
+
+9.A man rows 750 m in 675 seconds against the stream and returns in 7 and half minutes. His rowing speed in still water is
+A.4 kmph
+B.5 kmph
+C.6 kmph
+D.7 kmph
+Ans. b
+
+10.A boat can travel with a speed of 16 km/hr in still water. If the rate of the stream is 5 km/hr, then find the time taken by the boat to cover the distance of 84 km downstream.
+A.4 hours
+B.5 hours
+C.6 hours
+D.7 hours
+Ans: a
+Explanation:
+It is very important to check, if the boat speed given is in still water or with water or against water. Because if we neglect it we will not reach on right answer. I just mentioned here because mostly mistakes in this chapter are of this kind only. Lets see the question now. Speed downstream = (16 + 5) = 21 kmph Time = distance/speed = 84/21 = 4 hours

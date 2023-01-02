@@ -1,0 +1,83 @@
+
+
+Question 1 4,25,49,121,?
+A.196
+B.225
+C.169
+D.None
+Ans: C
+Explanation:
+13^2= 169 because follow sequence of square of the prime numbers
+
+Question 2 7,14,55,110,?
+A.140
+B.155
+C.121
+D.1255
+Ans: C
+Explanation: 7 + 7=14 reverse the 14 so 41 41+14=55 55 reverse so 55 55 +55=110 reverse the 110 is 011 so 110+011=121(ans).
+
+Question 3 What is the next number in the series? 2,4,7,10,15,18,….
+A.23
+B.25
+C.26
+D.27
+Ans: a
+Explanation:
+23 Adding (0,1,2,3,4,5,6,7) to the prime numbers. 2+0=2 3+1=4 5+2=7 7+3=10 11+4=15 13+5=18 17+6=23
+
+Question 4 if “HAT” = 58, then “KEEP” = ?
+A.68
+B.64
+C.74
+D.78
+Ans: c
+Explanation:
+H is 8th alphabet a is 1st and T is 20th sum is 29 and its double is 58 In the same way keep sums out to be 37 and 37×2 =74
+
+Question 5 If in a code language, COULD is written as BNTKC and MARGIN is written as LZQFHM, how will MOULDING be written in that code?
+A.CHMFINTK
+B.LNKTCHMF
+C.LNTKCHMF
+D.NITKHCMF
+E.None of these
+Ans: c
+
+Question 6 In a certain code, COMPUTER is written as RFUVQNPC. How is MEDICINE written in the same code ?
+A.EOJDJEFM
+B.EOJDEJFM
+C.MFEJDJOE
+D.MFEDJJOE
+E.None of these
+Ans: a
+
+Question 7 If in a certain code, TWENTY is written as 863985 and ELEVEN is written as 323039, how is TWELVE written in that code ?
+A.863203
+B.863584
+C.863903
+D.863063
+Ans: c
+
+Question 8 If in a certain language if ENTRY is coded as 12345 and STEADY is coded as 931785, then state which is the correct code for below word. NEATNESS
+A.25196577
+B.21732199
+C.21362199
+D.21823698
+Ans: b
+
+Question 9 In a certain code, a number 13479 is written as AQFJL and 5268 is written as DMPN. How is 396824 wriitten in that code ?
+A.QLPNKJ
+B.QLPNMF
+C.QLPMNF
+D.QLPNDF
+E.None of these
+Ans: b
+
+Question 10 In a certain code, 15789 is written as AXBTC, 2346 is written as MPDU. How is 23549 written in that code
+A.MPXDT
+B.MPADC
+C.MPXCD
+D.MPXDC
+E.None of these
+Ans: c
+

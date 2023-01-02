@@ -1,0 +1,62 @@
+Question 1 Happiness: Sorrow::Comfort: ?
+A.hardship
+B.easy
+C.difficult
+D.erase
+Ans.a
+
+Question 2 Automobile : Petrol :: ?
+A.fire : fuel
+B.plane : propeller
+C.diesel : gas
+D.man : food
+Ans.d
+
+Question 3 Bacteria : Decomposition :: ?
+A.volcano : eruption
+B.oxygen : water
+C.antibiotic : injection
+D.yeast : fermentation
+Ans.d
+
+Question 4 Ship : Captain :: Newspaper : ?
+A.reader
+B.editor
+C.publisher
+D.printer
+Ans.b
+
+Question 5 Day : Week :: ?
+A.year : week
+B.second : time
+C.time : duration
+D.week : month
+Ans.b
+
+Question 6 Sculptor : Statue then Poet : ?
+A.Canvas
+B.Pen
+C.Verse
+D.Chisel
+Ans.c
+
+Question 7 SEDATIVE : SLEEP
+A.challenging : knowledge
+B.mnemonic : memory
+C.vocal : eloquence
+D.dramatic : story
+Ans.b
+
+Question 8 PALATE : MOUTH ::
+A.rivulet : dam
+B.ceiling : room
+C.rainbow : sky
+D.hill : range
+Ans.b
+
+Question 9 EXPEL: SCHOOL ::
+A.export : factory
+B.study : school
+C.exile : nation
+D.lecture : college
+Ans.c

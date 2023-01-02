@@ -1,0 +1,76 @@
+Question 1. If twenty sweets are distributed among some boys and girls such that each girl gets two sweets and each boy gets three sweets, what is the number of boys and girls? A. The number of girls is not more than five. B. If each girl gets 3 sweets and each boy gets 2 sweets, the number of sweets required for the children will still be the same.
+A.Statement 1 alone is sufficient, but Statement 2 alone is not sufficient to answer the question
+B.Statement 2 alone is sufficient, but Statement 1 alone is not sufficient to answer the question
+C.Both statements taken together are sufficient to answer the question, but neither statement alone is sufficient
+D.Each statement alone is sufficient
+E.Statements 1 and 2 together are not sufficient, and additional data is needed to answer the question
+Ans: b
+Explanation:
+Given 2G + 3B = 20. Now if we use statement (A) that number of girls is not more than 5, then we have G = 1, B = 6 OR G = 4, B = 4. Since we cannot get a single solution from this statement it is not sufficient to answer the question. If we use statement (B) 3B + 2G = 20 we have G = 4 and B = 4. Hence, statement (B) alone is sufficient to answer the question.
+
+Question 2. Dream teams are formed by television viewers by selecting five players from the sixteen players namely F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12,F13,F14,F15 and F16.The players belong to exactly one of the three teams namely Chesla,Liverpool and United.Every Dream Team must have two players each from Chesla and Liverpool and one player from united.Following information is provided a)F12 is not from United b)F7 is from Chesla. c)F2 and F9 are from liverpool. d)the ‘match fee’ of each player belonging to chesla ,liverpool, and united is Euro 800.Euro775 and euro 725 match played respectively. 8 such dearm teams were formed are mentioned below… Team1=F3,F9,F7,F1,F12 Team2=F12,F11,F13,F6,F9 Team3=F6,F3,F5,F11,F7 Team4=F2,F10,F7,F6,F1 Team5=F1,F4,F16,F11,F10 Team6=F6,F3,F7,F15,F12 Team7=F2,F9,F12,F14,F15 Team8=F4,F8,F13,F11,F10 Q1) In dream team 6 name the united player?
+A.F3
+B.F6
+C.F12
+D.F15
+Ans: d
+
+Question 3 Dream teams are formed by television viewers by selecting five players from the sixteen players namely F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12,F13,F14,F15 and F16.The players belong to exactly one of the three teams namely Chesla,Liverpool and United.Every Dream Team must have two players each from Chesla and Liverpool and one player from united.Following information is provided a)F12 is not from United b)F7 is from Chesla. c)F2 and F9 are from liverpool. d)the ‘match fee’ of each player belonging to chesla ,liverpool, and united is Euro 800.Euro775 and euro 725 match played respectively. 8 such dearm teams were formed are mentioned below… Team1=F3,F9,F7,F1,F12 Team2=F12,F11,F13,F6,F9 Team3=F6,F3,F5,F11,F7 Team4=F2,F10,F7,F6,F1 Team5=F1,F4,F16,F11,F10 Team6=F6,F3,F7,F15,F12 Team7=F2,F9,F12,F14,F15 Team8=F4,F8,F13,F11,F10 Q2) How many players belong to Chesla from the given sixteen players?
+A.4
+B.5
+C.6
+D.7
+Ans: b
+
+Question 4 Dream teams are formed by television viewers by selecting five players from the sixteen players namely F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12,F13,F14,F15 and F16.The players belong to exactly one of the three teams namely Chesla, Liverpool and United.Every Dream Team must have two players each from Chesla and Liverpool and one player from United.The following information is provided a)F12 is not from United b)F7 is from Chesla. c)F2 and F9 are from liverpool. d)the ‘match fee’ of each player belonging to chesla ,liverpool, and united is Euro 800.Euro775 and euro 725 match played respectively. 8 such dream teams were formed are mentioned below… Team1=F3,F9,F7,F1,F12 Team2=F12,F11,F13,F6,F9 Team3=F6,F3,F5,F11,F7 Team4=F2,F10,F7,F6,F1 Team5=F1,F4,F16,F11,F10 Team6=F6,F3,F7,F15,F12 Team7=F2,F9,F12,F14,F15 Team8=F4,F8,F13,F11,F10 Q3) In team 8 who are from liverpool?
+A.F4,F8
+B.F10,F11
+C.F11,F13
+D.F4,F11
+Ans: a
+
+Question 5 Dream teams are formed by television viewers by selecting five players from the sixteen players namely F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12,F13,F14,F15 and F16.The players belong to exactly one of the three teams namely Chesla,Liverpool and United.Every Dream Team must have two players each from Chesla and Liverpool and one player from united.Following information is provided a)F12 is not from United b)F7 is from Chesla. c)F2 and F9 are from liverpool. d)the ‘match fee’ of each player belonging to chesla ,liverpool, and united is Euro 800.Euro775 and euro 725 match played respectively. 8 such dearm teams were formed are mentioned below… Team1=F3,F9,F7,F1,F12 Team2=F12,F11,F13,F6,F9 Team3=F6,F3,F5,F11,F7 Team4=F2,F10,F7,F6,F1 Team5=F1,F4,F16,F11,F10 Team6=F6,F3,F7,F15,F12 Team7=F2,F9,F12,F14,F15 Team8=F4,F8,F13,F11,F10 Q4) What is the total fees per match (in Euros) for the team?
+A.3800
+B.3825
+C.3875
+D.None of these
+Ans:c
+Explanation:
+2*(800+775)+725=3875
+
+Question 6 Dream teams are formed by television viewers by selecting five players from the sixteen players namely F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12,F13,F14,F15 and F16.The players belong to exactly one of the three teams namely Chesla,Liverpool and United.Every Dream Team must have two players each from Chesla and Liverpool and one player from united.Following information is provided a)F12 is not from United b)F7 is from Chesla. c)F2 and F9 are from liverpool. d)the ‘match fee’ of each player belonging to chesla ,liverpool, and united is Euro 800.Euro775 and euro 725 match played respectively. 8 such dearm teams were formed are mentioned below… Team1=F3,F9,F7,F1,F12 Team2=F12,F11,F13,F6,F9 Team3=F6,F3,F5,F11,F7 Team4=F2,F10,F7,F6,F1 Team5=F1,F4,F16,F11,F10 Team6=F6,F3,F7,F15,F12 Team7=F2,F9,F12,F14,F15 Team8=F4,F8,F13,F11,F10 Q5) Which of the following combinations have only Liverpool players?
+A.F13,F3
+B.F3,F16
+C.F16,F14
+D.F14,F2
+Ans: c
+
+Question 7 ABCD are four points in a plane such that ABD and DBC form two triangles.Area of ABD is 10 units and area of ADC is 20 units.What is the ratio of lengths(AD/DC)? i)points ADC are collinear ii)DB is 5 units long and is perpendicular to AC.
+A.The question can be answered by using one of the statements alone, but can not be answered by using other statements alone.
+B.The questions can be answered by using either statement alone
+C.The question can be answered by using both statements together, but can not be answered using either statement alone.
+D.The question cannot be answered even by using both statements together.
+Ans: a
+
+Question 8 What was the percentage profit in selling a liter of milk? i)5-liter milk was sold at cost price after adding 20% of water. ii)Milk was purchased at RS.16 per liter.
+A.The question can be answered by using one of the statements alone, but can not be answered by using other statements alone.
+B.The questions can be answered by using either statement alone.
+C.The question can be answered by using both statements together, but can not be answered using either statement alone.
+D.The question cannot be answered even by using both statements together
+Ans: a
+
+Question 9 Sukhbir is taller than Randhir but not as tall as Ajit. If Manoj is taller than Nitin, who is shorter than Ajit, then who among them is the shortest?
+A.Nitin
+B.Sukhbir
+C.Manoj
+D.Data inadequate
+Ans: d
+
+Question 10 How many liters of 20% alcohol should be mixed with 60 % alcohol to get 32% alcohol (1) We get 70 liters of 32% alcohol (2) We used 21 lit of 60% alcohol, to prepare 32%
+A.The question can be answered by using one of the statements alone, but cannot be answered by using the other statements alone
+B.The question can be answered by using either statement alone
+C.The question can be answered by using both statements together, but cannot be answered by using either statement alone
+D.The question cannot be answered even by using both the statements together
+Ans: b
+Explanation:
+20 60 32 28 12 so the mixture will be in 28:12 ratio => 7:3 ratio (1) if we have 70 liters of 32% alcohol that means we have 70*(7/(7+3)) liter = 49 liter of 20% alcohol (2) if we have 21 liter of 60% alcohol that means 3x = 21(from the ratio) => x = 7 so we have 7 * 7(from ratio) liter of 20% of alcohol so both statement alone is sufficient

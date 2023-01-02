@@ -1,0 +1,75 @@
+Question 1 Anita,chitra,snega,radha and sonia one of whose lastname is madhan were recently hired at a large shopping center.Each women sells only one kind of item.Read the following point and then answer the questions a. Radha whose last name is not raghu, does not sell popcorn. b. The David women does not sell candy or soda. c.The five women are snega,Radha,the satish woman,the calvin women and the women who sells icecream. d. Anita’s last name is neither Raghu nor calvin .Neither Anita nor calvin is the women who sells candy. e. Neither the peanut vendor nor the ice cream vendor is named sonia or David. Which of the following is the item sold by Anita?
+A.icecream
+B.peanut
+C.soda
+D.candy
+Ans: B
+Explanation:
+anita – satish – peanuts chitra – raghu – icecream snega – david – popcorn radha – madhan – candy soniya – calvin – soda
+
+2.who sell popcorn?
+A.anita
+B.radha
+C.snega
+D.sonia
+Ans:C
+Explanation:
+anita – satish – peanuts chitra – raghu – icecream snega – david – popcorn radha – madhan – candy soniya – calvin – soda
+
+3.Who sell icecream?
+A.anita
+B.chitra
+C.snega
+D.sonia
+Ans:B
+Explanation:
+anita – satish – peanuts chitra – raghu – icecream snega – david – popcorn radha – madhan – candy soniya – calvin – soda
+
+4.Who’s last name is madhan??
+A.snega
+B.chitra
+C.sonia
+D.Radha
+Ans:D
+
+5.Study the following information carefully to answer the questions. (i) Lakshman, Madan, Naresh, Prakash, Dhanumjaya, Rohith and Sandhya are sitting in a circle and playing cards. (ii) Naresh, who is the neighbour of Prakash, is not the neighbour of Rohith (iii) Dhanumjaya is second to the left of R. (iV) Naresh is second to the left of Sandhya, who is the neighbour of Madan. Which of the following is True?
+A.Dhanumjaya is the neighbour of Sandhya and Lakshman
+B.Madan is the neighbour of Sandhya and Lakshman
+C.Rohith is the neighbour of Sandhya and Lakshman
+D.Lakshman is the neighbour of Prakash and Madan
+Ans:A
+
+6.Which of the following pairs has the second person sitting second to the right first person?
+A.Rohith Madan
+B.Naresh Dhanumjaya
+C.Dhanumjaya Sandhya
+D.None of these
+Ans:D
+
+7.Which of the following pairs has the first person sitting third to the left of the second person?
+A.Rohith Madan
+B.Sandhya Madan
+C.Sandhya Rohith
+D.Naresh Lakshman
+Ans:C
+
+8.What is the position of Lakshman?
+A.To the immediate right of Dhanumjaya
+B.Second to the left of Madan
+C.To the immediate left of Dhanumjaya
+D.Only between Madan and Rohith
+Ans:A
+
+9.Study the following information carefully to answer the questions. A, B, C, D, E, F and G are seated in a straight line facing north but not necessarily in the same order. Only three people sit between F and A. Neither F nor A sits at the extreme ends of the line. Only two people sit between A and G. E is not an immediate neighbour of either A or F. E sits third to the left of B. B is not an immediate neighbour of A. E is not an immediate neighbour of C. Who are the immediate neighbours of F?
+A.AG
+B.CD
+C.DG
+D.GB
+Ans:D
+
+10.Who are the immediate neighbours of A?
+A.BG
+B.CD
+C.GD
+D.EF
+Ans:B

@@ -1,0 +1,75 @@
+1. Class A has a higher enrollment than Class B.
+Class C has a lower enrollment than Class B.
+Class A has a lower enrollment than Class C.
+If the first two statements are true, the third statement is
+A. true
+B. false
+C. uncertain
+D. None
+Answer: Option B
+
+2. All animals have
+A. Eyes
+B. Four legs
+C. Horns
+D. Instincts
+Answer: Option D
+
+3. After world war II three departments did as follows. First department gave some tanks to the 2nd and 3rd department equal to the number they are having. Then 2nd department gave some tanks to 1st and 3rd department equal to the number they are having. Then 3rd department gave some tanks to 1st and 2nd department equal to the number they are having. Then each department has 24 tanks. Find the initial no. of tanks of each department?
+A.6
+B.7
+C.11
+D.12
+Answer: Option D
+Explanation:
+this one is easy for u start from downwards 24,24,24 take half from both depart me t and give it 2 3rd means 12,12,48 then for second 6,6+12+24,24=6,42,24 then for first6+21+12,21,12=39,21,12 🙂
+
+4. Solve the following question based on the information provide i. Students A, B, C, D, E, and F participated in a self-evolution test of Quant‟s and Data (D.I) ii. Total marks of A in quant‟s was just above C and in D.I just above F was just above C in D.I but he scored less than D in Quant‟s iii. Got more marks than D and E in D.I but did not perform as well in Quant‟s as in D.I compared to D and E iv. One is in between C and D in Quant‟s and C and A in D.I Got the highest make in D.I?
+A.A
+B.B
+C.C
+D.Data Inadequate
+Answer: Option D
+
+5.Four students P, Q, R and S each working under the super vision of one of the four professors A, B, C and D made their final year MBA Project Presentations one by one, one each in the areas of Finance, Marketing, Systems and Human Resource Management (HRM). Each professor is an expert in only one of the above areas and supervised exactly one of the above students in his own area. The following are the clues: (i) First presentation was made by R. (ii) Prof. B works in Finance. (iii) Prof. D was P’s supervisor. (iv) The last presentation was in the Systems area. (v) S’s project was in the HRM area. (vi) Prof. B’s student’s presentation followed that of Prof. C’s student. In which area was R’s Project?
+A.Marketing
+B.Finance
+C.Systems
+D.HRM
+Answer: Option A
+Explanation:
+order : R …………….. PROF C………..MARKETING Q……………..PROF B………….FINANCE S………………PROF A …………HRM P………………PROF D………….SYSTEM OR R …………….. PROF A………..MARKETING S………………PROF C………… HRM Q……………..PROF B………….FINANCE P………………PROF D………….SYSTEM
+
+6. What is the area of expertise of Prof. D?
+A.HRM
+B.Marketing
+C.Systems
+D.Finance
+Answer: Option D
+
+7.In which area was the second presentation?
+A.Finance
+B.Marketing
+C.Systems
+D.Cannot be determined
+Answer: Option A
+Explanation:
+ORDER : 1. C — R Marketing 2. B — Q Finance 3. A — S HRM 4. D — P Systems
+
+8.Which student’s project did Prof. B supervise?
+A.Q
+B.R
+C.S
+D.P
+Answer: Option A
+Explanation:
+ORDER : 1. C — R Marketing 2. B — Q Finance 3. A — S HRM 4. D — P Systems
+
+9.What is the area of expertise of Prof. A?
+A.HRM
+B.Systems
+C.Marketing
+D.Either Marketing of HRM
+Answer: Option A
+Explanation:
+ORDER : 1. C — R Marketing 2. B — Q Finance 3. A — S HRM 4. D — P Systems

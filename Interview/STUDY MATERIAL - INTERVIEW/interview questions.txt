@@ -1,0 +1,76 @@
+Tech 1
+1. Tell me about yourself briefly
+Tech 2
+1. What are class templates?
+2. Write a program using class template?
+3. Write a program to find the second largest and second smallest number in an array?
+4. Suppose you have 1gb file, and got 500mb RAM how would you arrange the files?
+5. Write a sql query to find the details of the employees who has the highest salary in the employee table?
+Tech 2
+2. What are different types of memory allocation in c++? and explain them also?
+
+
+1. Introduction (Describe your projects well)
+2. asked project related questions
+3. asked OOP's concepts then he asked to implement the concepts ( Beware before hand to practice and share screen)
+4. The he gave a coding question in google meet chat box it was max buying and selling of stocks
+5. he have a sql query simple again be careful to practice before hand you have to show them share screen
+
+2nd Round (Technical Round)
+
+Now this company mostly works on java applications, so make sure to brush up your java concepts. If they want, they can grill you on java only.
+
+For me, the interviewer went through my entire resume and made sure i knew each thing i mentioned in my resume.
+
+He firstly started with C.
+
+Q1. How to read data from a file in C?
+Q2. What are the parameters of fopen() ?
+Q3. What is the return type of fclose() ?
+Q4. What is a structure ?
+Q5. Dynamic allocation of memory using malloc function.
+Q6. Append Two Strings in C without using an inbuilt function.
+
+Now he switched to JAVA.
+
+Q7. Name some collection classes in Java.
+Q8. Whats difference between Operator Overloading & Operator Overriding.
+Q9. What is Data-Hiding ?
+Q10. Is encapsulation a type of Data-Hiding ?
+Q11. Why is Java called Platform Independent?
+Q12. What are the phases of Java Code Compilation?
+Q13. Do you have any idea about JDBC ?
+
+Now, questions from other topics mentioned in my resume were asked.
+
+Q14. What are the different phases of Software development life cycle?
+
+Q15. What is Dynammic Programming ?
+
+Q16. Basic SQL Query : There is a employee table with columns : age , name , id , gender. Find the number of employees that have age greater than 25.
+[ Answer : “SELECT COUNT(id) FROM emp_table WHERE age > 25″ ]
+
+Q17. What is Normalization ?
+
+Q18. What are the different forms of Normalization?
+
+Q19. What is the concept of pipe-lining ?
+
+DO YOU HAVE ANY QUESTIONS FOR ME ?
+
+Out of 45 students, approximately 30 students made it to the next round. And i was one of them.
+
+3rd Round (HR Round)
+
+Q1. Tell me something about yourself.
+Q2. Tell me about your background and where are you from.
+Q3. Why have you applied for this company ?
+Q4. What did you like about Pre Placement Talk ? [Tip : Make sure to collect points from the Pre Pacement Talk]
+Q5. And most importantly, what did you disliked about the Pre Placement Talk ? Be Honest !!!
+ [ My answer made her smile. And i thought i messed up there, but the exact opposite happened. 
+She was impressed by my answer. ]
+Q6. What are your hobbies ?
+Q7. What all you experienced during your Internships ?
+
+DO YOU HAVE ANY QUESTIONS FOR ME ?
+
